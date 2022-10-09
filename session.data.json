@@ -100,11 +100,11 @@
 
     "me": {
 
-      "id": "6289693373440:2@s.whatsapp.net",
+      "id": "6289520337522:2@s.whatsapp.net",
 
-      "verifiedName": "",
+      "verifiedName": "Vania Dan Felicia",
 
-      "name": "D T"
+      "name": "Vania Dan Felicia"
 
     },
 
@@ -114,7 +114,7 @@
 
         "identifier": {
 
-          "name": "6289693373440:2@s.whatsapp.net",
+          "name": "6289520337522:2@s.whatsapp.net",
 
           "deviceId": 0
 
@@ -748,7 +748,7 @@
 
     "sessions": {
 
-      "6289693373440.0": {
+      "6289520337522.0": {
 
         "_sessions": {
 
@@ -830,7 +830,7 @@
 
         },
 
-        "version": "v1"
+        "version": "v3"
 
       }
 
